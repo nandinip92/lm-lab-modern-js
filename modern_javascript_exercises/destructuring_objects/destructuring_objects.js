@@ -1,6 +1,6 @@
 // Instructions can be found in destructuring_objects.md
 
-export function introduction(name, city, pet) {
+export function introduction({ name, city, pet }) {
   // const name = person.name;
   // const city = person.city;
   // const pet = person.pet;
